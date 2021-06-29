@@ -1,4 +1,4 @@
-package com.example.springbootkickstart.services.models;
+package com.example.kickstart.services.models;
 
 import lombok.Builder;
 import lombok.Data;

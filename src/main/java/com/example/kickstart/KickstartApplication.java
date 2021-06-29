@@ -1,13 +1,13 @@
-package com.example.springbootkickstart;
+package com.example.kickstart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootKickstartApplication {
+public class KickstartApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootKickstartApplication.class, args);
+		SpringApplication.run(KickstartApplication.class, args);
 	}
 
 }

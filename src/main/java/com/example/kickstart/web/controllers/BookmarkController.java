@@ -1,7 +1,7 @@
-package com.example.springbootkickstart.web.controllers;
+package com.example.kickstart.web.controllers;
 
-import com.example.springbootkickstart.services.BookmarkService;
-import com.example.springbootkickstart.services.models.BookmarkDto;
+import com.example.kickstart.services.BookmarkService;
+import com.example.kickstart.services.models.BookmarkDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;

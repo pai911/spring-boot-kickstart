@@ -1,4 +1,4 @@
-package com.example.springbootkickstart.services.exceptions;
+package com.example.kickstart.services.exceptions;
 
 public class NotFoundException extends RuntimeException {
     public NotFoundException(String message, Throwable cause) {

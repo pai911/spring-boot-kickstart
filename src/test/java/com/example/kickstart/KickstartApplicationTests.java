@@ -1,10 +1,10 @@
-package com.example.springbootkickstart;
+package com.example.kickstart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringBootKickstartApplicationTests {
+class KickstartApplicationTests {
 
 	@Test
 	void contextLoads() {

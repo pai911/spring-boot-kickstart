@@ -1,4 +1,4 @@
-package com.example.springbootkickstart.domain.entities;
+package com.example.kickstart.domain.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

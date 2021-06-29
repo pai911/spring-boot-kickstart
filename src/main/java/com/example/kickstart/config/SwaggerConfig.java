@@ -1,4 +1,4 @@
-package com.example.springbootkickstart.config;
+package com.example.kickstart.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -17,7 +17,7 @@ public class SwaggerConfig {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(buildApiInf())
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("com.example.springbootkickstart.web.controllers"))
+                .apis(RequestHandlerSelectors.basePackage("com.example.kickstart.web.controllers"))
                 .paths(PathSelectors.any())
                 .build();
     }

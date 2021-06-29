@@ -1,7 +1,7 @@
-package com.example.springbootkickstart.bootstrap;
+package com.example.kickstart.bootstrap;
 
-import com.example.springbootkickstart.domain.entities.Bookmark;
-import com.example.springbootkickstart.domain.repositories.BookmarkRepository;
+import com.example.kickstart.domain.entities.Bookmark;
+import com.example.kickstart.domain.repositories.BookmarkRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;

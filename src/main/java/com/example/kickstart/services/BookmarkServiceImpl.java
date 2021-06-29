@@ -1,9 +1,9 @@
-package com.example.springbootkickstart.services;
+package com.example.kickstart.services;
 
-import com.example.springbootkickstart.domain.repositories.BookmarkRepository;
-import com.example.springbootkickstart.services.exceptions.NotFoundException;
-import com.example.springbootkickstart.services.models.BookmarkDto;
-import com.example.springbootkickstart.web.mappers.BookmarkMapper;
+import com.example.kickstart.domain.repositories.BookmarkRepository;
+import com.example.kickstart.services.exceptions.NotFoundException;
+import com.example.kickstart.services.models.BookmarkDto;
+import com.example.kickstart.web.mappers.BookmarkMapper;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
