@@ -16,10 +16,10 @@ A barebone spring boot project to start building restful APIs
 
   - For example, you can use MapStruct to convert an Entity to a DTO or vice versa
 ## Swagger 
-- Integrated with Swagger
+- Integrated with Swagger by [Springfox](https://springfox.github.io/springfox/docs/current/)
   - REST API document generation
   - REST API test UI
-- https://www.codingame.com/playgrounds/51075/rest-with-spring-boot-2/swagger
+- API document endpoint: http://localhost:8080/swagger-ui/ 
 
 ## Common Error Handling
 - Define a common error handling logic and error message format
