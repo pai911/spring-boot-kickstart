@@ -1,6 +1,20 @@
 # Spring Boot Kickstart
 A barebone spring boot project to start building restful APIs 
 
+# Quick Start
+      
+## Clean and Build
+
+`> ./mvnw clean package`
+
+Generate jar to `./target/spring-boot-kickstart-0.0.1-SNAPSHOT.jar`
+
+## Run Server
+
+`> ./mvnw spring-boot:run`
+
+Start server with spring boot maven plugin
+
 # Features
 ## Lombok + MapStruct
 - Support [Lombok](https://projectlombok.org/): avoid writing boilerplate code
