@@ -1,6 +1,6 @@
 # Spring Boot Kickstart
 
-A barebone spring boot project to start building restful APIs
+A barebone spring-boot project to start building restful APIs
 
 # Features
 
